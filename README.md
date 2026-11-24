@@ -146,6 +146,7 @@ Streamlit web app development, project report writing.
 ## Submission Deliverables
 
 - Source code (this repository / ZIP)
-- Project report (`AgriSense_Explanation.docx`)
+- Project report (`AgriSense_Report.docx`)
 - Dataset: Kaggle link above (also included in `data/`)
 - Web app demo: `streamlit run app.py`
+- Live web app Link: `https://agrisense-crop.streamlit.app`

@@ -5,7 +5,7 @@ Soil-and-Climate-Based Crop Selection Using Classical Machine Learning
 AgriSense takes a farmer's soil nutrient readings (Nitrogen, Phosphorus, Potassium),
 environmental conditions (temperature, humidity, rainfall) and soil pH, and recommends
 the single most suitable crop out of 22 common crops. It is trained on a public labeled
-dataset and deployed as a simple Streamlit web app.
+dataset and deployed as a simple Streamlit web app
 
 ---
 
